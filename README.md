@@ -166,7 +166,6 @@ satellite-image-classification-cnn/
     └── water/
 ```
 
-> Note: If the dataset is large, do not upload it directly to GitHub. Add it to `.gitignore` and include a dataset download link in this README instead.
 
 ## Conclusion
 
